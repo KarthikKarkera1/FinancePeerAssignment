@@ -3,3 +3,4 @@
 2. Go to FinancePeerAssignment/Frontend and do npm install
 3. Go to FinancePeerAssignment/backend and do npm install
 4. npm start from FinancePeerAssignment directory
+5. App runs on port 3000
